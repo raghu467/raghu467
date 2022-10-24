@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @(raghu-Raghavender)
+- 👋 Hi, I’m @raghu-(Raghavender)
 - 👀 I’m interested in -  Software Running on Embedded Hardware.
 - 🌱 I’m currently learning - Linux Driver Development and Internals.
 - 💞️ I’m looking to collaborate on -NA
